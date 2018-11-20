@@ -1,1 +1,0 @@
-# aidanrbates.github.io
