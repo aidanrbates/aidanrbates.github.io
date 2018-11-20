@@ -1,0 +1,328 @@
+* {
+        margin: 0;
+        padding: 0;
+        border: 0;
+        outline: 0;
+        font-size: 100%;
+        vertical-align: baseline;
+        background: transparent;
+    }
+    
+
+html, body {
+	height: 100%; 
+	margin: 0;
+}
+
+#landing{
+    text-align: center;
+    padding-top: 2%;
+    background-color: #3F484F;
+    padding-bottom: 10%;
+    color: #C6D1CA;
+    height: 100%;
+}
+
+#landing h1{
+    font-weight: 200;
+    font-size: 700%;
+    font-family: 'Playfair Display', serif;
+}
+
+#landing h3{
+   font-size: 150%;
+   font-family: 'Open Sans Condensed', sans-serif;
+   font-weight: normal;
+}
+
+#menu {
+    text-align: center;
+    color: #C6D1CA;
+    background-color: #3F484F;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 110%;
+    display: block;
+    padding-top: 8%;
+
+}
+
+#menu h2{
+    padding-bottom: 1%;
+    font-weight: normal;
+    letter-spacing: 2px;
+}
+
+#menu a, a:visited, a:hover, a:active{
+    text-decoration: none;
+    color: #C6D1CA;
+}
+
+#menu a:hover {
+    text-decoration: none;
+    opacity: 0.7;
+}
+
+#about{
+    text-align: center;
+    padding-top: 6%;
+    padding-bottom: 6%;
+    background-color: #F3E9DC;
+    
+}
+
+#about h1{
+    font-family: 'Playfair Display', serif;
+    font-size: 300%;
+    font-weight: normal;
+    color: #3F484F;
+}
+
+#about p{
+    margin: auto;
+    text-align: center;
+    word-wrap: break-word;
+    width: 35%;
+    font-family: 'Open Sans Condensed', sans-serif;
+    padding-top: 4%;
+    font-size: 170%;
+    color: #1C1C1C;
+}
+
+#comp{
+    display: table;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    background-image: linear-gradient(#3F484F, #1C1C1C);
+}
+
+#comp .column{
+    width: 10%; 
+    display: table-cell;
+    text-align: center;
+    padding-right: 2%;
+    
+}
+
+#comp p{
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 120%;
+    color: #F3E9DC;
+    padding-top: 10%;
+}
+
+#comp h2{
+    font-family: 'Playfair Display', serif;
+    font-weight: normal;
+    font-size: 220%;
+    letter-spacing: 10px;
+    color: #BC747A;
+
+}
+
+
+#guestspeaker{
+
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    height: 100%;
+    background-color: #3F484F;
+    color: #C6D1CA;
+
+}
+
+#guestspeaker h1{
+    font-size: 300%;
+    font-weight:normal;
+}
+
+#guestspeaker img{
+    height: 160px;
+    width: auto;
+    margin: auto;
+    padding-top: 1%;
+}
+
+#guestinfo h2{
+    text-align: center;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 200%;
+    font-weight: normal;
+}
+
+#guestinfo h3{
+    font-size: 100%;
+    text-align: center;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 250%;
+    font-weight: normal;
+    
+}
+
+#guestinfo p{
+    margin: auto;
+    text-align: center;
+    word-wrap: break-word;
+    width: 35%;
+    font-family: 'Open Sans Condensed', sans-serif;
+    padding-top: 2%;
+    font-size: 125%;
+}
+
+#submit{
+    text-align: center;
+    color: #3F484F;
+    background-color: #C6D1CA;
+}
+#submit .pagehead{
+   font-size: 250%;
+}
+#submit h1{
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    font-weight: normal;
+    font-size: 110%;
+}
+
+#submit h4, h2{
+        font-family: 'Open Sans Condensed', sans-serif;
+        font-weight: normal;
+}
+
+#submit h2{
+    padding-top: 2%;
+    font-size: 130%;
+    padding-bottom: 1%;
+}
+
+#3princ{
+    display: table;
+}
+
+#3princ .column {
+    width: 33%;
+    height:100%;
+    display: table-cell;
+    text-align: center;
+}
+
+#subguide{
+   text-align: left;
+}
+
+#submain{
+   padding-top: 2%;
+   padding-bottom: 2%;
+}
+
+#subguide h2{
+   padding-bottom: 0%;
+}
+
+#subguide h3{
+   font-family: 'Open Sans Condensed', sans-serif;
+   font-weight: normal;
+   padding-bottom: 2%;
+}
+
+#subguide h5{
+   font-family: 'Open Sans Condensed', sans-serif;
+   padding-bottom: 1%;
+}
+
+#subguide ul{
+   
+   font-family: 'Open Sans Condensed', sans-serif;
+   list-style: none;
+   padding-bottom: 1%;
+}
+
+#essay{
+   background-color: #3F484F;
+   color: #C6D1CA;
+   padding-left: 1%;
+}
+
+#symposium{
+   padding-left: 1%;
+}
+
+#workshop{
+   padding-left: 1%;
+   background-color: #9F7E69;
+   color: #C6D1CA;
+}
+
+#seminar{
+   padding-left: 1%;   
+}
+
+#artwork{
+   padding-left: 1%;
+   background-color: #734B5E;
+   color: #C6D1CA;
+}
+
+#schedule{
+    padding-top: 5%;
+    padding-bottom: 5%;
+    background-color: #C6D1CA;
+    display: table;
+
+}
+
+#schedule .eventinfo{
+   font-family: 'Open Sans Condensed', sans-serif;
+   font-weight: normal;
+   color: #3F484F;
+   font-size: 120%;
+   text-align: left;
+   
+}
+
+#schedule h4{
+    font-family: 'Open Sans Condensed', sans-serif;
+   font-weight: normal;
+   color: #3F484F;
+   font-size: 120%;
+   text-align: left;
+}
+
+#schedule h2{
+    font-size: 160%;
+    padding-bottom: 2%;
+    color: #BC747A;
+    font-family: 'Open Sans Condensed', sans-serif;
+    text-align: left;
+
+}
+
+#schedule h5{
+    padding-bottom: 8%;
+    
+}
+
+#schedule .column {
+    width: 33%;
+    height:100%;
+    display: table-cell;
+    text-align: center;
+    padding-left: 6%;
+    padding-right: 6%;
+}
+#schedule h1{
+    font-size: 600%;
+    font-family: 'Open Sans Condensed', sans-serif;
+    color: #3F484F;
+    letter-spacing: 10px;
+    transform: translateY(55px);
+}
+
+
+
+
+
+
+
+
