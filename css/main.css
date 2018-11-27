@@ -80,6 +80,24 @@ html, body {
     
 }
 
+#contact{
+    color: #3F484F;
+    background-color: #C6D1CA;
+    font-family: 'Open Sans Condensed', sans-serif;
+    text-align: center;
+    font-size: 150%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+#contact h2{
+    font-weight: normal;
+}
+
+#contact h1{
+    font-family: 'Playfair Display', serif;
+    font-weight: normal;
+}
 #about h1{
     font-family: 'Playfair Display', serif;
     font-size: 300%;
@@ -233,6 +251,15 @@ html, body {
 #bellhooks{
  padding-left: 3%;}
 
+#totality{
+padding-left: 3%;
+    padding-bottom: 2%;
+}
+
+#gratitude{
+    padding-bottom: 2%;
+}
+
 
 #presem_one h1{
    font-size: 250%;
@@ -353,6 +380,17 @@ padding-top: 1%;
     font-weight: normal;
 }
 
+#dead1 {
+    font-size:120%;
+    background-color: #3F484F;
+    color: #C6D1CA;
+}
+
+#dead2{
+    font-size:120%;
+    background-color: #3F484F;
+    color: #C6D1CA;
+}
 #subguide{
    text-align: left;
 }
