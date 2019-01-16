@@ -203,6 +203,8 @@ html, body {
     background-color: #3F484F;
 }
 
+
+
 #guestinfo h2{
     text-align: center;
     font-family: 'Open Sans Condensed', sans-serif;
@@ -261,6 +263,11 @@ html, body {
     background-color: #C6D1CA;
     color: #3F484F;
 }
+
+#threecol .icon:
+height: 100%;
+width: auto;
+;
 
 #preseminar a{
     text-decoration: none;
