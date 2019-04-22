@@ -72,6 +72,144 @@ html, body {
     color: #C6D1CA;
 }
 
+#post-conference{
+    background-color: #C6D1CA;
+}
+
+#pcblurb h2{
+    font-size: 125%;
+}
+
+
+
+#post-conference h1{
+    font-family: 'Playfair Display', serif;
+    font-weight: 200;
+    font-size: 300%;
+    padding-bottom: 0%;
+}
+
+#post-conference h2{
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-weight: 100;
+    font-size: 125%;
+    padding-bottom: 3%;
+}
+
+
+#post-conference h3{
+    width: 100%;
+    
+}
+
+#post-conference img{
+    display: inline;
+}
+
+#post-conference a{
+    text-decoration: none;
+    color: black;
+}
+
+#post-conference a:visited{
+    text-decoration: none;
+    color: black;
+}
+
+#post-conference a:active{
+    text-decoration: none;
+    color: black;
+}
+
+#post-conference a:hover{
+    color: #BC747A; 
+}
+
+.column1 a:hover{
+    opacity: 0.8;
+    background-color: yellow;
+}
+
+
+#pcsaf{
+    font-family: 'Open Sans Condensed', sans-serif;
+    padding-bottom: 5%;
+    display: inline;
+}
+
+#pcsaf h3{
+    font-size:200%;
+}
+
+#pcsaf h4{
+    font-size:115%;
+}
+
+#pcsaf h5{
+    font-size:115%;
+}
+
+
+#pces h3{
+    font-size:200%;
+}
+
+#pces h4{
+    font-size:115%;
+}
+
+#pcsaf_text{
+    display: inline;
+    vertical-align: top;
+}
+
+#pcsaf .column1{
+    height: 100%;
+    display: table-cell;
+    padding-left: 5%;
+}
+
+#pces_text{
+    display: inline;
+    vertical-align: top;
+}
+
+#pcsaf h3{
+
+}
+#pces{
+    font-family: 'Open Sans Condensed', sans-serif;
+    display: inline;
+}
+#pces .column1{
+    height: 100%;
+    display: table-cell;
+    padding-left: 5%;
+}
+
+#symplist{
+    vertical-align: top;
+    height: 100%;
+    display: table-cell;
+    padding-left: 5%;
+}
+
+#symplist h2{
+    padding-bottom: 0%;
+    font-size: 200%;
+    padding-top: 3%;
+}
+
+#symplist h4{
+    font-family: 'Open Sans Condensed', sans-serif;
+    padding-bottom: 3%;
+}
+
+#symplist ul{
+    list-style-type: none;
+    font-family: 'Open Sans Condensed', sans-serif;
+
+}
 #about{
     text-align: center;
     padding-top: 6%;
